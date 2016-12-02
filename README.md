@@ -1,2 +1,2 @@
-# betarow
-An artificial-intelligence-machine-learning approach to gomuku games
+# BetaRow
+A Gomoku solver that integrates learning and artificial intelligence approaches in C
