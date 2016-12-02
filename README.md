@@ -1,2 +1,2 @@
 # BetaRow
-A Gomoku solver that integrates learning and artificial intelligence approaches in C
+A Gomoku solver written in C that integrates learning and artificial intelligence approaches
